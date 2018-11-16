@@ -20,7 +20,10 @@ This is when my Customer Journey™ begins.
 
 As I head to the snack aisle I see dozens of cameras overhead, watching silently.
 They're no longer just an anti-shoplifting measure.
-I walk past the gluten-free [quinoa](https://www.theguardian.com/commentisfree/2013/jan/16/vegans-stomach-unpalatable-truth-quinoa) muesli bars. The cameras note this. They remember that I don't like that holier-than-thou health food.
+I walk straight past the health-food snack section.
+The cameras note this, but the back-end analytics server isn't surprised.
+It remembers that time I re-tweeted an opinion piece critical of [quinoa](https://www.theguardian.com/commentisfree/2013/jan/16/vegans-stomach-unpalatable-truth-quinoa) and [gluten-free](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jhn.12502) food.
+
 Reaching to pick up a pack of BBQ chips, I pause. Instead I choose the prettier looking alternative next to it. The cameras note this. They know I just turned down my usual choice for something new. This triggers a back end algorithm which immediately sells the information about my choice to both food manufacturers.
 Those brands won't pay much for that information alone, but they're getting more information than just my decision. They're getting a whole 1.2MB payload.
 
