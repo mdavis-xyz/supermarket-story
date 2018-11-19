@@ -10,11 +10,11 @@
 By the time we realised what was happening, it was already too late.
 
 The cameras recognise me as soon as I set foot in the FoodCorp Supermarket.
-The footage is streamed live to one of their dozen back-end analytics data centres.
-There their facial recognition system compares my face to that of everyone who has ever shopped at a FoodCorp store.
+The footage is streamed live to one of their dozen analytics data centres.
+There proprietary facial recognition algorithms compare my face to that of everyone who has ever shopped at a FoodCorp store.
 To supplement this they also analyse the [gait of my walk](https://www.abc.net.au/news/2018-11-06/chinese-gait-recognition-tech-ids-people-by-how-they-walk/10469974) and [the uniqueness of my tattoo](https://www.eff.org/deeplinks/2016/05/5-ways-law-enforcement-will-use-tattoo-recognition-technology).
 All this takes about 800 milliseconds.
-Once I am identified, the servers looked up their historical databases to find recordings,  analytics and purchase history from all my prior shopping trips.
+Once I am identified, those servers look up their historical databases to find recordings,  analytics and purchase history from all my prior shopping trips.
 This is when my Customer Journey™ begins.
 
 
@@ -22,17 +22,18 @@ As I head to the snack aisle I see dozens of cameras overhead, watching silently
 They're no longer just an anti-shoplifting measure.
 I walk straight past the health-food snack section.
 The cameras note this, but the back-end analytics server isn't surprised.
-It remembers that time I re-tweeted an opinion piece critical of [quinoa](https://www.theguardian.com/commentisfree/2013/jan/16/vegans-stomach-unpalatable-truth-quinoa) and [gluten-free](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jhn.12502) food.
+It remembers that time I re-tweeted an opinion piece critical of [quinoa](https://www.theguardian.com/commentisfree/2013/jan/16/vegans-stomach-unpalatable-truth-quinoa) and [gluten-free](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jhn.12502) food, so it's expecting me to shun that section.
 
-Reaching to pick up a pack of BBQ chips, I pause. Instead I choose the prettier looking alternative next to it. The cameras note this. They know I just turned down my usual choice for something new. This triggers a back end algorithm which immediately sells the information about my choice to both food manufacturers.
-Those brands won't pay much for that information alone, but they're getting more information than just my decision. They're getting a whole 1.2MB payload.
+I continue on to the cheap junk food section. Reaching to pick up a pack of BBQ chips, I pause. Instead I choose the prettier looking alternative next to it. The cameras note this. They know I just turned down my usual choice for something new. This triggers a back end algorithm which immediately sells the information about my choice to both food manufacturers.
+Those brands wouldn't pay much for "a customer chose brand A over brand B".
+However they're getting a lot more information than just that. They're getting a whole 1.2 megabyte payload.
 
 ```
 {
    "Name": "Stephen Davidson",
    "Age": 25,
    "Gender": "Male",
-   "Weekly FoodCorp spend": "$152.34"
+   "Average Weekly FoodCorp Spend": "$152.34"
    "Income (pre-tax)": {
       "Value": "$63,300",
       "Confidence Window": "$700"
@@ -60,7 +61,7 @@ Those brands won't pay much for that information alone, but they're getting more
 FoodCorp's servers dig deep into their data troves, and those of their partners.
 They pull up everything they know about me.
 They have already bought my demographic, social media and credit card information from [shady third party data brokers](https://privacyinternational.org/feature/2433/i-asked-online-tracking-company-all-my-data-and-heres-what-i-found).
-Some of the data may have been originally obtained through under-the-table means.
+Some of that data may have been originally obtained through unscrupulous means.
 However that was by sub-sub-sub-contractors of the data broker.
 It is therefore distant enough from a corporate culpability perspective, as far as the FoodCorp board is concerned.
 Aggregated together with video and analytics from all my prior visits they're able to paint a complete picture about me as a person.
@@ -80,7 +81,7 @@ In the eyes of the law this is *technically* true, because at the entrance to ev
 The documents themselves don't appear at the store entrance, because each is about 10,000 words long. So anyone who actually noticed the sign would be clueless as to what they'd potentially be agreeing to.
 
 However even if you did find the online copies and read them, it wouldn't make a difference.
-Section 17.3.2a of the EULA claims that it is "Subject to change without notice".
+Section 17.3.2a of the EULA claims that it is "subject to change without notice".
 So you may agree to what seems to be reasonable terms today. However FoodCorp can silently change their policies tomorrow to [allow them to enter your home](https://motherboard.vice.com/en_us/article/yw949v/lawyers-for-gta-online-get-court-order-to-search-homes-of-alleged-cheat-makers) and look through your underwear drawer. You wouldn't legally be able to stop them. By entering any of their stores at some point in the past, you've become bound to the whims of a for-profit corporation's policy which is "subject to change without notice".
 What this amounts to is [the privatization of the law](https://books.google.com.au/books?id=feyUDgAAQBAJ&lpg=PP1&dq=after%20on&pg=PT337#v=onepage&q=privatization%20of%20the%20law&f=false).
 
@@ -99,23 +100,22 @@ Damn. The [electronic price tag](https://www.sunpaitag.com/supermarket-epaper-pr
 When FoodCorp first introduced dynamic prices they claimed that it was only a time-based market signal to [incentivise shoppers to shop outside the busy periods](https://thewest.com.au/lifestyle/shopping/supermarket-digital-tags-adjust-pricing-depending-on-time-of-day-bc-5486533651001).
 However there's no transparency about when or why prices change.
 There was a court case a few years ago, alleging that FoodCorp's automated surveillance system temporarily increases prices based on the income of whoever is in that aisle, and whether they look like they're in a hurry.
-Unfortunately there's no way for any consumer group to prove it, because their proprietary pricing algorithms are [hidden from the court](https://www.schneier.com/blog/archives/2016/05/the_fallibility.html) due to intellectual property laws.
+Unfortunately there's no way for any government regulator to prove it, because their proprietary pricing algorithms are [hidden from the court](https://www.schneier.com/blog/archives/2016/05/the_fallibility.html) due to intellectual property laws.
 
 None of the self checkout machines accept cash any more.
 The days of anonymous purchases without private middlemen are long gone.
-The government's competition watchdog put up no resistance to a for-profit duopoly taking over 100% of commercial transactions.
-Now no one is able to by anything unless they submit to the [invasive and opaque demands of private payment providers](http://www.thetechherald.com/news/cloud-firm-seafile-drops-paypal-after-being-told-to-monitor-users-files/).
-
-The watchdog claims we still have choice.
+The government's competition watchdog put up no resistance to a for-profit duopoly taking over 100% of retail transactions.
+They claim we still have a choice.
 Hmm, do I want to be tracked by MasterCard or Visa?
+Either way I must submit to the [invasive and opaque demands of private payment providers](http://www.thetechherald.com/news/cloud-firm-seafile-drops-paypal-after-being-told-to-monitor-users-files/).
 Both of those corporations have [data exchange deals with FoodCorp](https://www.bloomberg.com/news/articles/2018-08-30/google-and-mastercard-cut-a-secret-ad-deal-to-track-retail-sales), and also with an undisclosed number of other companies who [mistakenly believe](https://www.quora.com/What-is-the-revenue-generation-model-for-DuckDuckGo/answer/Gabriel-Weinberg) surveillance capitalism is the only sustainable business model. The card companies hand over my income and spending habit data to FoodCorp. In exchange FoodCorp gives them detailed information about what I purchased, which aisles I visited, which items I looked at, and for how long.
 
-This secret data has a tangible impact on my life. It was used by my bank to decide whether to give me a mortgate. If I am charged with a crime, this data will be [used to determine the length of my prison sentence](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/).
+This secret data has a tangible impact on my life. It was used by my bank to decide whether to give me a mortgage. If I am charged with a crime this data will be [used to determine the length of my prison sentence](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/).
 Despite this, I am not able to see what the data says about me, let alone correct any mistakes.
 
-The checkout machine asks me if I want a digital receipt sent to me via email, SMS, Facebook Messenger, or the FoodCorp app. This is mostly so that they can discover yet another identifier to track me with. (Although the FoodCorp app also [tracks your location long after you've left the store](https://www.theverge.com/2016/11/30/13763714/uber-location-data-tracking-app-privacy-ios-android).)
+The checkout machine asks me if I want a digital receipt sent to me via email, SMS, Facebook Messenger or the FoodCorp app. This is mostly so that they can discover yet another identifier to track me with. (Although the FoodCorp app also [tracks your location long after you've left the store](https://www.theverge.com/2016/11/30/13763714/uber-location-data-tracking-app-privacy-ios-android).)
 
-Many shoppers still believe that physical shopping is anonymous. That unlike the online world, your behaviours and purchases aren't tracked nor sold to advertising agencies and data brokers.
+Many shoppers still believe that physical shopping is anonymous. That unlike the online world, your behaviours and purchases are not tracked, nor sold to advertising agencies and data brokers.
 But that's not true.
 
 I wish I could still pay anonymously with cash, to help fight back, but it's too late.
