@@ -100,7 +100,7 @@ Damn. The [electronic price tag](https://www.sunpaitag.com/supermarket-epaper-pr
 When FoodCorp first introduced dynamic prices they claimed that it was only a time-based market signal to [incentivise shoppers to shop outside the busy periods](https://thewest.com.au/lifestyle/shopping/supermarket-digital-tags-adjust-pricing-depending-on-time-of-day-bc-5486533651001).
 However there's no transparency about when or why prices change.
 There was a court case a few years ago, alleging that FoodCorp's automated surveillance system temporarily increases prices based on the income of whoever is in that aisle, and whether they look like they're in a hurry.
-Unfortunately there's no way for any government regulator to prove it, because their proprietary pricing algorithms are [hidden from the court](https://www.schneier.com/blog/archives/2016/05/the_fallibility.html) due to intellectual property laws.
+Unfortunately there's no way for any consumer group to prove it, because their proprietary pricing algorithms are [hidden from the court](https://www.schneier.com/blog/archives/2016/05/the_fallibility.html) due to intellectual property laws.
 
 None of the self checkout machines accept cash any more.
 The days of anonymous purchases without private middlemen are long gone.
