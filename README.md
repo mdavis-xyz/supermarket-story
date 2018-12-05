@@ -10,7 +10,7 @@ By the time we realised what was happening, it was already too late.
 The cameras recognise me as soon as I set foot in the FoodCorp Supermarket.
 The footage is streamed live to one of their dozen analytics data centres.
 There proprietary facial recognition algorithms compare my face to that of everyone who has ever shopped at a FoodCorp store.
-To supplement this they also analyse the [gait of my walk](https://www.abc.net.au/news/2018-11-06/chinese-gait-recognition-tech-ids-people-by-how-they-walk/10469974), uniqueness of my freckle locations, and [my tattoo](https://www.eff.org/deeplinks/2016/05/5-ways-law-enforcement-will-use-tattoo-recognition-technology).
+To supplement this they also analyse the [gait of my walk](https://www.abc.net.au/news/2018-11-06/chinese-gait-recognition-tech-ids-people-by-how-they-walk/10469974), uniqueness of my freckle locations and [my tattoo](https://www.eff.org/deeplinks/2016/05/5-ways-law-enforcement-will-use-tattoo-recognition-technology).
 All this takes about 800 milliseconds.
 Once I am identified, those servers look up their historical databases to find recordings,  analytics and purchase history from all my prior shopping trips.
 This is when my Customer Journey™ begins.
