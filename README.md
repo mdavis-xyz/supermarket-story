@@ -61,7 +61,7 @@ They pull up everything they know about me.
 They have already purchased my demographic, social media and credit card information from [shady third party data brokers](https://privacyinternational.org/feature/2433/i-asked-online-tracking-company-all-my-data-and-heres-what-i-found).
 Some of that data was probably obtained originally through illicit and unethical means.
 However that was by sub-sub-sub-contractors of the data broker.
-It is therefore distant enough from a corporate culpability perspective, as far as the FoodCorp board is concerned.
+This diffuses culpability to a level which is safe for corporate governance and profitability, as far as the FoodCorp board is concerned.
 Aggregated together with video and analytics from all my prior visits they're able to paint a complete picture about me as a person.
 
 
