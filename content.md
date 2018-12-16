@@ -1,9 +1,3 @@
-# Going to the Supermarket in 2025
-
-> Matthew Davis
->
-> Disclaimer: This story is a warning about the future. Claims about any real corporations are hypothetical fiction.
-> All links are provided as context, not evidence.
 
 By the time we realised what was happening, it was already too late.
 
