@@ -73,7 +73,7 @@ The FoodCorp [shareholders are happy though](https://www.businessinsider.com.au/
 FoodCorp claims that we all consent to having our data secretly extracted, aggregated and sold.
 In the eyes of the law this is *technically* true, because at the entrance to every FoodWorks store there is an inconspicuous ankle-height sign.
 
-> "By entering this store you agree to be bound by the FoodCorp™ Privacy Statement and End User Licence Agreement (EULA)."
+> By entering this store you agree to be bound by the FoodCorp™ Privacy Statement and End User Licence Agreement (EULA).
 
 The documents themselves don't appear at the store entrance, because each is about 10,000 words long. So anyone who actually noticed the sign would be clueless as to what they'd potentially be agreeing to.
 
