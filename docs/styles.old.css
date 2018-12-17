@@ -5,42 +5,13 @@
 
 body {
    background: rgb(51,51,51);
-   font-size: 200%;
+   font-size: 100%;
    color: #fff;
    width: 80%;
    margin: auto;
    padding-top: 3rem;
    padding-bottom: 3rem;
 }
-
-html {
-   font-size: 50%;
-}
-
-@media (min-width:20rem)  {
-   html {
-      font-size: 66%;
-   }
-}
-
-@media (min-width:30rem)  {
-   html {
-      font-size: 100%;
-   }
-}
-/*
-@media (min-width:45rem)  {
-   html {
-      font-size: 150%;
-   }
-}
-
-@media (min-width:60rem)  {
-   html {
-      font-size: 160%;
-   }
-}*/
-
 
 h1 {
    text-align: center;
@@ -63,9 +34,7 @@ pre {
    float: unset;
    /*left: 50%;
    transform: translateX(50%);*/
-   overflow-x: scroll;
 }
-
 
 .metrics {
    height: 0px;
@@ -86,6 +55,7 @@ pre {
 }
 
 
+
 blockquote {
     border-left: 5px solid #ccc;
     margin:  1.5rem 1.5rem;
@@ -101,14 +71,6 @@ iframe {
 }
 
 
-a {
-   color: #06e;
-}
-
-a:visited {
-   color: #4169E1;
-}
-
-a:hover {
-   color: #0375B4;
-}
+a { color: #06e; }
+a:visited { color: #4169E1; }
+a:hover { color: #0375B4; }​

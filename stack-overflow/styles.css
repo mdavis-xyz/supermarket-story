@@ -28,7 +28,7 @@ html {
       font-size: 100%;
    }
 }
-/*
+
 @media (min-width:45rem)  {
    html {
       font-size: 150%;
@@ -39,12 +39,9 @@ html {
    html {
       font-size: 160%;
    }
-}*/
-
-
-h1 {
-   text-align: center;
 }
+
+
 
 code {
   font-family: Consolas, Menlo, Monaco, monospace;
@@ -57,58 +54,10 @@ pre {
    background: rgb(34,34,34);
    border-radius: 3px;
    padding: 1rem;
-   display: inline-block;
+   display: block;
    justify-content: center;
    /*max-width: 100%;*/
    float: unset;
    /*left: 50%;
    transform: translateX(50%);*/
-   overflow-x: scroll;
-}
-
-
-.metrics {
-   height: 0px;
-   width: 0px;
-   display: none
-}
-
-.author {
-   text-align: center;
-   margin-bottom: 1em;
-   font-size: 110%;
-}
-
-.disclaimer {
-   font-size: 70%;
-   text-align: center;
-   font-style: italic;
-}
-
-
-blockquote {
-    border-left: 5px solid #ccc;
-    margin:  1.5rem 1.5rem;
-    padding:  0.5rem 0.5rem;
-    font-style: italic;
-}
-
-
-iframe {
-   height: 0px;
-   width: 0px;
-   display: none
-}
-
-
-a {
-   color: #06e;
-}
-
-a:visited {
-   color: #4169E1;
-}
-
-a:hover {
-   color: #0375B4;
 }
