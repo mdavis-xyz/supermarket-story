@@ -56,6 +56,14 @@ blockquote {
     font-style: italic;
 }
 
+
+iframe {
+   height: 0px;
+   width: 0px;
+   display: none
+}
+
+
 a { color: #06e; }
 a:visited { color: #4169E1; }
 a:hover { color: #0375B4; }​
