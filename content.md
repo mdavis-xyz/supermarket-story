@@ -7,7 +7,7 @@ There proprietary facial recognition algorithms compare my face to that of every
 To supplement this they also analyse the [gait of my walk](https://www.abc.net.au/news/2018-11-06/chinese-gait-recognition-tech-ids-people-by-how-they-walk/10469974), uniqueness of my freckle locations and [my tattoo](https://www.eff.org/deeplinks/2016/05/5-ways-law-enforcement-will-use-tattoo-recognition-technology).
 All this takes about 800 milliseconds.
 Once I am identified, those servers look up their historical databases to find recordings,  analytics and purchase history from all my prior shopping trips.
-This is when my Customer Journey™ begins.
+This is when my *Customer Journey*™ begins.
 
 
 As I head towards the snack aisle I see dozens of cameras overhead, watching silently.
