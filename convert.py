@@ -13,7 +13,7 @@ content = pypandoc.convert_file(content_md_fname, 'html')
 print("Content as html:")
 print(content)
 
-content = content.replace('<a href=','<a target="_blank" href=')
+content = content.replace('<a href=','<a target="_blank" href=').replace('\n','\n'+' '*9)
 
 output_html = Template(template).render(content=content)
 
