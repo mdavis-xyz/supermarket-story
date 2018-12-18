@@ -103,13 +103,15 @@ iframe {
 
 
 a {
-   color: #06e;
+   /*color: #94CAFF;*/
+   color: #69b4ff;
+   text-decoration: none;
 }
 
 a:visited {
-   color: #4169E1;
+   /*text-decoration: none;*/
 }
 
 a:hover {
-   color: #0375B4;
+   text-decoration: underline;
 }
