@@ -108,6 +108,7 @@ In exchange FoodCorp gives them detailed information about what I purchased, whi
 The card companies then resell this data to an undisclosed number of other companies who [mistakenly believe](https://www.quora.com/What-is-the-revenue-generation-model-for-DuckDuckGo/answer/Gabriel-Weinberg) surveillance capitalism is the only sustainable business model.
 
 This secret data has a tangible impact on my life. It was used by my bank to decide whether to give me a mortgage. If I am charged with a crime this data will be [used to determine the length of my prison sentence](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/).
+Proprietary algorithms make unappealable decisions about [whether I am allowed on a plane](https://theintercept.com/2018/12/03/air-travel-surveillance-homeland-security), using this data.
 Despite this, I am not able to see what the data says about me, let alone correct any mistakes.
 
 The checkout machine asks me if I want a digital receipt sent to me via email, SMS, Facebook Messenger or the FoodCorp app. This is mostly so that they can discover yet another identifier to track me with. (The FoodCorp app also [tracks your location long after you've left the store](https://www.theverge.com/2016/11/30/13763714/uber-location-data-tracking-app-privacy-ios-android).)
