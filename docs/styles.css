@@ -42,8 +42,11 @@ html {
    }
 }*/
 
+header {
+   text-align: center;
+}
 
-h1 {
+.authordate {
    text-align: center;
 }
 
@@ -67,10 +70,16 @@ pre {
    overflow-x: scroll;
 }
 
+hr {
+   border-top: 1px solid #8c8b8b;
+   margin-below: 1em;
+   margin-top: 1em;
+   width: 50%;
+}
+
 .topimage {
    /*width: 80%;*/
    margin-top: 3rem;
-   text-align: center;
 }
 
 .metrics {
@@ -81,7 +90,6 @@ pre {
 
 .subtitle {
    font-size: 100%;
-   text-align: center;
 }
 
 .alignleft {
@@ -102,7 +110,6 @@ pre {
 }
 
 .author {
-   /*text-align: center;*/
    margin-bottom: 1em;
    font-size: 110%;
    display:inline;
@@ -110,8 +117,8 @@ pre {
 
 .disclaimer {
    font-size: 70%;
-   text-align: center;
    font-style: italic;
+   text-align: center;
 }
 
 
