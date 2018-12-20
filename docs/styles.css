@@ -158,6 +158,10 @@ iframe {
    fill:white
 }
 
+.photoauthor {
+   font-size: 70%;
+}
+
 a {
    /*color: #94CAFF;*/
    color: #69b4ff;
