@@ -18,6 +18,10 @@ html {
    /*font-size: 50%;*/
 }
 
+h1 {
+   text-transform: capitalize;
+}
+
 @media (min-width:20rem)  {
    html {
       font-size: 66%;
