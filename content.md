@@ -21,15 +21,15 @@ However they're getting a lot more information than just that. They're getting a
 
 ```
 {
-   "Name": "Stephen Davidson",
-   "Age": 25,
+   "Name": "Matthew Davis",
+   "Age": 26,
    "Gender": "Male",
    "Average Weekly FoodCorp Spend": "$152.34"
    "Income (pre-tax)": {
       "Value": "$63,300",
       "Confidence Window": "$700"
    },
-   "Timestamp": "2025-08-10 17:43:12",
+   "Timestamp": "2025-08-14 17:43:12",
    "Absolute Location": "Pitt St Store",
    "Relative Location": {
       "Value": "between place of work and usual bus stop",
@@ -52,14 +52,14 @@ However they're getting a lot more information than just that. They're getting a
 FoodCorp's servers dig deep into their data troves, and those of their partners.
 They pull up everything they know about me.
 They have already purchased my demographic, social media and credit card information from [shady third party data brokers](https://privacyinternational.org/feature/2433/i-asked-online-tracking-company-all-my-data-and-heres-what-i-found).
-Some of that data was probably obtained originally through illicit and unethical means.
+Some of that data was obtained originally through illicit and unethical means.
 However that was by sub-sub-sub-contractors of the data broker.
 This diffuses culpability to a level which is safe for corporate governance and profitability, as far as the FoodCorp board is concerned.
-Aggregated together with video and analytics from all my prior visits they're able to paint a complete picture about me as a person.
+Aggregated together with video and purchase history from all my prior visits they're able to paint a complete picture about me as a person.
 
 
 Food brands love this. (Even though both chip brands are ultimately [owned by the same company](https://www.independent.co.uk/life-style/companies-control-everything-you-buy-kelloggs-nestle-unilever-a7666731.html).)
-They aren't the only ones who pay dearly for this data.
+However they aren't the only ones who pay dearly for this data.
 My health insurer is also quite interested in my choice of afternoon snack.
 The NSA, [Facebook](https://www.engadget.com/2016/12/30/facebook-buys-data-on-users-offline-habits-for-better-ads/), Equifax, [Border Force](https://www.cnet.com/au/news/scope-creep-australian-border-force-granted-metadata-access/), [CentreLink](https://www.computerworld.com.au/article/649514/data-retention-centrelink-councils-australia-post-among-organisations-accessing-metadata/) and countless others are also kept in the loop.
 
@@ -84,13 +84,13 @@ What this amounts to is [the privatization of the law](https://books.google.com.
 On my way to the checkout I pass a pair of FoodCorp *Customer Excellence Ambassadors™*. (Formerly known as "shelf stockers".)
 They're setting up the store's Christmas decorations.
 Each year they get a little bit earlier.
-It's currently early August.
+It's currently mid-August.
 
-The first screen I see as I approach the self-checkout machines is a prompt asking me to identify myself with a my loyalty card.
+The first screen I see as I approach the self-checkout machine is a prompt asking me to identify myself with a my [loyalty card](https://xkcd.com/2006/).
 After dismissing it and then scanning the barcode on my bag of chips at the self checkout, I'm told the price is $4.80.
 Damn. The [electronic price tag](https://www.sunpaitag.com/supermarket-epaper-price-tag-13.html) on the shelf told me the chips only cost $4.10, but that was 2 minutes ago.
 
-When FoodCorp first introduced dynamic prices they claimed that it was only a time-based market signal to [incentivise shoppers to shop outside the busy periods](https://thewest.com.au/lifestyle/shopping/supermarket-digital-tags-adjust-pricing-depending-on-time-of-day-bc-5486533651001).
+When FoodCorp first introduced dynamic pricing they claimed that it was only a time-based market signal to [incentivise shoppers to shop outside the busy periods](https://thewest.com.au/lifestyle/shopping/supermarket-digital-tags-adjust-pricing-depending-on-time-of-day-bc-5486533651001).
 However there's no transparency about when or why prices change.
 Everyone knows that FoodCorp's automated surveillance system temporarily increases prices based on the income of whoever is in that aisle, and whether they look like they're in a hurry.
 Unfortunately there's no way for any consumer rights group to prove it, because their proprietary pricing algorithms are [hidden from the courts](https://www.schneier.com/blog/archives/2016/05/the_fallibility.html) due to intellectual property laws.
@@ -110,7 +110,7 @@ The card companies then resell this data to an undisclosed number of other compa
 This secret data has a tangible impact on my life.
 It was used by my bank to decide whether to give me a mortgage.
 If I am charged with a crime this data will be [used to determine the length of my prison sentence](https://www.wired.com/2017/04/courts-using-ai-sentence-criminals-must-stop-now/).
-Proprietary algorithms make unappealable decisions about [whether I am allowed to board a plane](https://theintercept.com/2018/12/03/air-travel-surveillance-homeland-security) or [cross borders](https://www.mtlblog.com/news/canada/the-government-of-canada-is-now-officially-warning-canadians-to-buy-legal-marijuana-with-cash-to-protect-their-personal-information) using this data.
+Proprietary algorithms make unappealable decisions about [whether I am allowed to board a plane](https://theintercept.com/2018/12/03/air-travel-surveillance-homeland-security) or [cross borders](https://www.mtlblog.com/news/canada/the-government-of-canada-is-now-officially-warning-canadians-to-buy-legal-marijuana-with-cash-to-protect-their-personal-information) based on this data.
 Despite this, I am not able to see what the data says about me, let alone correct any mistakes.
 
 The checkout machine asks me if I want a digital receipt sent to me via email, SMS, Facebook Messenger or the FoodCorp app. This is mostly so that they can discover yet another identifier to track me with. (The FoodCorp app also [tracks your location long after you've left the store](https://www.theverge.com/2016/11/30/13763714/uber-location-data-tracking-app-privacy-ios-android).)
