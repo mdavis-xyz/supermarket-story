@@ -32,7 +32,7 @@ function parseToDOM(text){
 function readabilityCheck(dom){
    console.log("\n\n\n\nChecking readability");
 
-   var rdObj = new readability.Readability(dom,{debug:false})
+   var rdObj = new readability.Readability(dom,{debug:true})
    var readable = rdObj.isProbablyReaderable()
    console.log("Probably readable: " + readable);
    var parsed = rdObj.parse();
