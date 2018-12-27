@@ -1,3 +1,3 @@
 # Supermarket Story
 
-This github repo is for a short story, published via github pages, available at [supermarket.mdavis.xyz](https://supermarket.mdavis.xyz).
+This github repo was for a short story, published via github pages. It has moved and is now available at [www.mdavis.xyz/supermarket](https://www.mdavis.xyz/supermarket).
